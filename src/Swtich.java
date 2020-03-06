@@ -16,7 +16,7 @@ public class Swtich {
 			break;
 		default:
 			System.out.println("I don't know what you can achieve at this age. There are a lot of choices available for you to achieve. Good Luck for your future.");
-		break;
+			break;
 		}
 		ip.close();
 	}
